@@ -50,7 +50,7 @@
 #include "AC101.h"
 #include "ES8388.h"
 #include "DLNAClient.h"
-#include "KCX_BT_Emitter.h"
+//#include "KCX_BT_Emitter.h"
 #include "BH1750.h"
 #include <mbedtls/aes.h>
 #include <mbedtls/base64.h>
